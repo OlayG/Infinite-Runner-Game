@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 3621d2dbab7e67d4191525bd3af1a9f4
+timeCreated: 1462141793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: catJump_0
+    21300002: catJump_1
+    21300004: catJump_2
+    21300006: catJump_3
+    21300008: catJump_4
+    21300010: catJump_5
+    21300012: catJump_6
+    21300014: catJump_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: catJump_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1434
+        width: 291
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86.5, y: -65}
+        - {x: 136.5, y: -33}
+        - {x: 145.5, y: -16}
+        - {x: 145.5, y: 16}
+        - {x: 127.5, y: 99}
+        - {x: 126.5, y: 187}
+        - {x: 119.5, y: 201}
+        - {x: 67.5, y: 196}
+        - {x: 31.5, y: 156}
+        - {x: -7.5, y: 192}
+        - {x: -40.5, y: 218}
+        - {x: -82.5, y: 218}
+        - {x: -102.5, y: 203}
+        - {x: -106.5, y: 161}
+        - {x: -111.5, y: 65}
+        - {x: -144.5, y: 21}
+        - {x: -139.5, y: 3}
+        - {x: -111.5, y: -27}
+        - {x: -62.5, y: -52}
+        - {x: -102.5, y: -71}
+        - {x: -145.5, y: -106}
+        - {x: -145.5, y: -142}
+        - {x: -133.5, y: -151}
+        - {x: -117.5, y: -150}
+        - {x: -99.5, y: -138}
+        - {x: -73.5, y: -158}
+        - {x: -81.5, y: -209}
+        - {x: -62.5, y: -218}
+        - {x: 20.5, y: -218}
+        - {x: 31.5, y: -206}
+        - {x: 51.5, y: -143}
+        - {x: 72.5, y: -109}
+    - name: catJump_1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1445
+        width: 286
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: -196}
+        - {x: 99, y: -168}
+        - {x: 81, y: -150}
+        - {x: 90, y: -117}
+        - {x: 92, y: -76}
+        - {x: 143, y: -20}
+        - {x: 143, y: 14}
+        - {x: 132, y: 50}
+        - {x: 135, y: 156}
+        - {x: 131, y: 195}
+        - {x: 79, y: 191}
+        - {x: 27, y: 154}
+        - {x: -8, y: 162}
+        - {x: -30, y: 206}
+        - {x: -55, y: 215}
+        - {x: -98, y: 215}
+        - {x: -117, y: 165}
+        - {x: -110, y: 127}
+        - {x: -131, y: 51}
+        - {x: -143, y: 29}
+        - {x: -143, y: 8}
+        - {x: -113, y: -23}
+        - {x: -75, y: -44}
+        - {x: -89, y: -74}
+        - {x: -129, y: -127}
+        - {x: -130, y: -150}
+        - {x: -113, y: -161}
+        - {x: -99, y: -180}
+        - {x: -92, y: -208}
+        - {x: -76, y: -215}
+        - {x: -36, y: -215}
+        - {x: -7, y: -166}
+        - {x: 57, y: -210}
+        - {x: 75, y: -207}
+    - name: catJump_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1001
+        width: 284
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: -115}
+        - {x: 102, y: -114}
+        - {x: 108, y: -89}
+        - {x: 142, y: -49}
+        - {x: 142, y: 8}
+        - {x: 131, y: 69}
+        - {x: 142, y: 120}
+        - {x: 142, y: 170}
+        - {x: 103, y: 173}
+        - {x: 86, y: 169}
+        - {x: 46, y: 140}
+        - {x: -37, y: 189}
+        - {x: -53, y: 198}
+        - {x: -104, y: 198}
+        - {x: -112, y: 159}
+        - {x: -113, y: 54}
+        - {x: -142, y: 27}
+        - {x: -142, y: 5}
+        - {x: -132, y: -23}
+        - {x: -90, y: -49}
+        - {x: -64, y: -59}
+        - {x: -85, y: -81}
+        - {x: -94, y: -104}
+        - {x: -82, y: -123}
+        - {x: -66, y: -124}
+        - {x: -89, y: -133}
+        - {x: -106, y: -145}
+        - {x: -98, y: -174}
+        - {x: -74, y: -198}
+        - {x: -30, y: -198}
+        - {x: 23, y: -185}
+        - {x: 101, y: -181}
+        - {x: 142, y: -162}
+        - {x: 142, y: -155}
+    - name: catJump_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 994
+        width: 284
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142, y: -124}
+        - {x: 127, y: -115}
+        - {x: 94, y: -98}
+        - {x: 142, y: -34}
+        - {x: 142, y: -10}
+        - {x: 134, y: 42}
+        - {x: 142, y: 145}
+        - {x: 142, y: 176}
+        - {x: 108, y: 189}
+        - {x: 46, y: 146}
+        - {x: -18, y: 169}
+        - {x: -49, y: 201}
+        - {x: -107, y: 201}
+        - {x: -123, y: 141}
+        - {x: -104, y: 79}
+        - {x: -142, y: 34}
+        - {x: -142, y: 11}
+        - {x: -126, y: -20}
+        - {x: -88, y: -45}
+        - {x: -70, y: -52}
+        - {x: -38, y: -61}
+        - {x: -50, y: -58}
+        - {x: -82, y: -70}
+        - {x: -96, y: -92}
+        - {x: -88, y: -114}
+        - {x: -72, y: -120}
+        - {x: -91, y: -134}
+        - {x: -105, y: -147}
+        - {x: -103, y: -168}
+        - {x: -70, y: -201}
+        - {x: -32, y: -201}
+        - {x: 55, y: -167}
+        - {x: 124, y: -185}
+        - {x: 142, y: -141}
+    - name: catJump_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 513
+        width: 283
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141.5, y: -138.5}
+        - {x: 120.5, y: -110.5}
+        - {x: 67.5, y: -101.5}
+        - {x: 92.5, y: -85.5}
+        - {x: 141.5, y: -34.5}
+        - {x: 141.5, y: 4.5}
+        - {x: 130.5, y: 52.5}
+        - {x: 136.5, y: 118.5}
+        - {x: 137.5, y: 176.5}
+        - {x: 118.5, y: 187.5}
+        - {x: 87.5, y: 179.5}
+        - {x: 39.5, y: 150.5}
+        - {x: -37.5, y: 199.5}
+        - {x: -55.5, y: 203.5}
+        - {x: -108.5, y: 203.5}
+        - {x: -115.5, y: 188.5}
+        - {x: -112.5, y: 132.5}
+        - {x: -110.5, y: 65.5}
+        - {x: -141.5, y: 34.5}
+        - {x: -141.5, y: 19.5}
+        - {x: -139.5, y: 11.5}
+        - {x: -124.5, y: -12.5}
+        - {x: -76.5, y: -48.5}
+        - {x: -95.5, y: -69.5}
+        - {x: -96.5, y: -98.5}
+        - {x: -87.5, y: -106.5}
+        - {x: -73.5, y: -112.5}
+        - {x: -109.5, y: -140.5}
+        - {x: -103.5, y: -168.5}
+        - {x: -64.5, y: -203.5}
+        - {x: -37.5, y: -203.5}
+        - {x: 20.5, y: -170.5}
+        - {x: 125.5, y: -175.5}
+        - {x: 141.5, y: -140.5}
+    - name: catJump_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 520
+        width: 284
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130, y: -113}
+        - {x: 74, y: -114}
+        - {x: 92, y: -95}
+        - {x: 140, y: -43}
+        - {x: 142, y: -37}
+        - {x: 142, y: 111}
+        - {x: 139, y: 172}
+        - {x: 119, y: 179}
+        - {x: 86, y: 172}
+        - {x: 66, y: 158}
+        - {x: -13, y: 150}
+        - {x: -19, y: 168}
+        - {x: -40, y: 192}
+        - {x: -59, y: 201}
+        - {x: -105, y: 201}
+        - {x: -112, y: 177}
+        - {x: -116, y: 160}
+        - {x: -105, y: 79}
+        - {x: -142, y: 33}
+        - {x: -142, y: 10}
+        - {x: -129, y: -22}
+        - {x: -71, y: -56}
+        - {x: -100, y: -71}
+        - {x: -93, y: -124}
+        - {x: -99, y: -122}
+        - {x: -105, y: -147}
+        - {x: -103, y: -168}
+        - {x: -70, y: -201}
+        - {x: -35, y: -201}
+        - {x: -11, y: -187}
+        - {x: 120, y: -176}
+        - {x: 142, y: -150}
+    - name: catJump_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 53
+        width: 284
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -107}
+        - {x: 95, y: -110}
+        - {x: 142, y: -48}
+        - {x: 142, y: -6}
+        - {x: 125, y: 64}
+        - {x: 136, y: 99}
+        - {x: 142, y: 126}
+        - {x: 142, y: 165}
+        - {x: 139, y: 179}
+        - {x: 85, y: 172}
+        - {x: 46, y: 140}
+        - {x: -12, y: 152}
+        - {x: -20, y: 177}
+        - {x: -54, y: 198}
+        - {x: -102, y: 198}
+        - {x: -118, y: 159}
+        - {x: -107, y: 73}
+        - {x: -142, y: 21}
+        - {x: -142, y: 3}
+        - {x: -108, y: -42}
+        - {x: -68, y: -69}
+        - {x: -85, y: -81}
+        - {x: -94, y: -104}
+        - {x: -82, y: -123}
+        - {x: -66, y: -124}
+        - {x: -89, y: -133}
+        - {x: -103, y: -146}
+        - {x: -103, y: -163}
+        - {x: -82, y: -198}
+        - {x: 10, y: -198}
+        - {x: 119, y: -174}
+        - {x: 142, y: -162}
+        - {x: 142, y: -158}
+    - name: catJump_7
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 46
+        width: 284
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -110}
+        - {x: 79, y: -111}
+        - {x: 142, y: -36}
+        - {x: 142, y: 0}
+        - {x: 136, y: 42}
+        - {x: 142, y: 113}
+        - {x: 142, y: 178}
+        - {x: 83, y: 181}
+        - {x: 18, y: 148}
+        - {x: -50, y: 199}
+        - {x: -56, y: 201}
+        - {x: -110, y: 201}
+        - {x: -123, y: 140}
+        - {x: -105, y: 76}
+        - {x: -142, y: 30}
+        - {x: -142, y: 1}
+        - {x: -90, y: -50}
+        - {x: -70, y: -52}
+        - {x: -38, y: -61}
+        - {x: -50, y: -58}
+        - {x: -82, y: -70}
+        - {x: -93, y: -80}
+        - {x: -95, y: -105}
+        - {x: -86, y: -112}
+        - {x: -73, y: -118}
+        - {x: -64, y: -113}
+        - {x: -54, y: -105}
+        - {x: -76, y: -134}
+        - {x: -98, y: -134}
+        - {x: -115, y: -176}
+        - {x: -71, y: -201}
+        - {x: -14, y: -201}
+        - {x: 44, y: -169}
+        - {x: 121, y: -177}
+        - {x: 140, y: -156}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
